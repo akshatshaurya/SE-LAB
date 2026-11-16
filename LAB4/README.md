@@ -5,7 +5,7 @@
 
 ## Overview
 This lab is about building and improving a Reaction Time Tester game in Python (Pygame), with the help of ChatGPT. The player waits for a signal and reacts as fast as possible. The game records each round's reaction time in milliseconds, then shows the average and the number of false starts.
-
+Before and after videos provided in Teams.
 ## Contents
 
 | File | Description |
